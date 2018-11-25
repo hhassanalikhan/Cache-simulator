@@ -1,0 +1,70 @@
+Speedup(Sequential  16*16): 1X 
+Speedup(Optimized sequential 16*16): 0.60X
+ 
+Speedup(Multithreaded-Odd,Even(avrg of 1000 executions) 16*16 ): 0.08X 
+ 
+Speedup(Multithreaded-2(avrg of 1000 executions)  16*16): 0.07X 
+ 
+Speedup(Multithreaded-4(avrg of 1000 executions)  16*16): 0.04X 
+
+			***************
+
+ 
+Speedup(Sequential  32*32): 1X 
+Speedup(Optimized sequential 32*32): 0.69X
+ 
+Speedup(Multithreaded-Odd,Even(avrg of 1000 executions) 32*32 ): 0.21X 
+ 
+Speedup(Multithreaded-2(avrg of 1000 executions)  32*32): 0.15X 
+ 
+Speedup(Multithreaded-4(avrg of 1000 executions)  32*32): 0.11X 
+
+			***************
+
+ 
+Speedup(Sequential  64*64): 1X 
+Speedup(Optimized sequential 64*64): 0.92X
+ 
+Speedup(Multithreaded-Odd,Even(avrg of 1000 executions) 64*64 ): 0.53X 
+ 
+Speedup(Multithreaded-2(avrg of 1000 executions)  64*64): 0.49X 
+ 
+Speedup(Multithreaded-4(avrg of 1000 executions)  64*64): 0.34X 
+
+			***************
+
+ 
+Speedup(Sequential  128*128): 1X 
+Speedup(Optimized sequential 128*128): 1.76X
+ 
+Speedup(Multithreaded-Odd,Even(avrg of 1000 executions) 128*128 ): 1.77X 
+ 
+Speedup(Multithreaded-2(avrg of 1000 executions)  128*128): 1.36X 
+ 
+Speedup(Multithreaded-4(avrg of 1000 executions)  128*128): 1.14X 
+
+			***************
+
+ 
+Speedup(Sequential  256*256): 1X 
+Speedup(Optimized sequential 256*256): 2.19X
+ 
+Speedup(Multithreaded-Odd,Even(avrg of 1000 executions) 256*256 ): 3.77X 
+ 
+Speedup(Multithreaded-2(avrg of 1000 executions)  256*256): 2.53X 
+ 
+Speedup(Multithreaded-4(avrg of 1000 executions)  256*256): 2.06X 
+
+			***************
+
+ 
+Speedup(Sequential  512*512): 1X 
+Speedup(Optimized sequential 512*512): 2.01X
+ 
+Speedup(Multithreaded-Odd,Even(avrg of 1000 executions) 512*512 ): 2.11X 
+ 
+Speedup(Multithreaded-2(avrg of 1000 executions)  512*512): 3.54X 
+ 
+Speedup(Multithreaded-4(avrg of 1000 executions)  512*512): 3.05X 
+
+
