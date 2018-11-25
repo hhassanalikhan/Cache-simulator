@@ -1,0 +1,2 @@
+# Cache-simulator
+This assignment helped in understanding the impact complex cache memories on the execution time of processes. Assignment consisted of two parts. In the first part I had to write a small C program (about 200-300 lines) that simulates the behavior of a cache memory. In the second part, I optimized a small matrix transpose function; with the goal of minimizing the number of cache misses.
